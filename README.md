@@ -3,13 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnajangir&label=Profile%20views&color=0e75b6&style=flat" alt="krishnajangir" /> </p>
 
-- 🔭 I’m currently working on **Bhaasha**
-
-- 🌱 I’m currently learning **NodeJS , mysql**
-
 - 💬 Ask me about **Javascript , Angular , ionic**
-
-- 📫 How to reach me **krishnajj99@gmail.com**
 
 - ⚡ Fun fact **I think i am funny.**
 
