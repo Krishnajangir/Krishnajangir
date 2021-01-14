@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krishnajangir&label=Profile%20views&color=0e75b6&style=flat" alt="krishnajangir" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krishnajangir" alt="krishnajangir" /></a> </p>
-
 - 🔭 I’m currently working on **Bhaasha**
 
 - 🌱 I’m currently learning **NodeJS , mysql**
