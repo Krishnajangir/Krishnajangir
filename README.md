@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Javascript , Angular , ionic**
 
-- ⚡ Fun fact **I think i am funny.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.hackerrank.com/krish33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="krish33" height="30" width="40" /></a>
